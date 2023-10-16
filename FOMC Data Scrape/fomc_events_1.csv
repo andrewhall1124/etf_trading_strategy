@@ -1,0 +1,231 @@
+,data,month,day,event,year
+0,"['February', '3-4', 'Meeting', '-', '1994']",February,4,Meeting,1994
+1,"['February', '28', 'Conference', 'Call', '-', '1994']",February,28,Conference,1994
+2,"['March', '22', 'Meeting', '-', '1994']",March,22,Meeting,1994
+3,"['March', '24', 'Conference', 'Call', '-', '1994']",March,24,Conference,1994
+4,"['April', '18', 'Conference', 'Call', '-', '1994']",April,18,Conference,1994
+5,"['May', '17', 'Meeting', '-', '1994']",May,17,Meeting,1994
+6,"['July', '5-6', 'Meeting', '-', '1994']",July,6,Meeting,1994
+7,"['July', '20', 'Conference', 'Call', '-', '1994']",July,20,Conference,1994
+8,"['August', '16', 'Meeting', '-', '1994']",August,16,Meeting,1994
+9,"['September', '27', 'Meeting', '-', '1994']",September,27,Meeting,1994
+10,"['November', '15', 'Meeting', '-', '1994']",November,15,Meeting,1994
+11,"['December', '20', 'Meeting', '-', '1994']",December,20,Meeting,1994
+12,"['December', '30', 'Conference', 'Call', '-', '1994']",December,30,Conference,1994
+13,"['January', '13', 'Conference', 'Call', '-', '1995']",January,13,Conference,1995
+14,"['January', '31-February', '1', 'Meeting', '-', '1995']",February,1,Meeting,1995
+15,"['March', '10', 'Conference', 'Call', '-', '1995']",March,10,Conference,1995
+16,"['March', '28', 'Meeting', '-', '1995']",March,28,Meeting,1995
+17,"['April', '28', 'Conference', 'Call', '-', '1995']",April,28,Conference,1995
+18,"['May', '23', 'Meeting', '-', '1995']",May,23,Meeting,1995
+19,"['July', '5-6', 'Meeting', '-', '1995']",July,6,Meeting,1995
+20,"['August', '22', 'Meeting', '-', '1995']",August,22,Meeting,1995
+21,"['September', '26', 'Meeting', '-', '1995']",September,26,Meeting,1995
+22,"['November', '15', 'Meeting', '-', '1995']",November,15,Meeting,1995
+23,"['December', '19', 'Meeting', '-', '1995']",December,19,Meeting,1995
+24,"['January', '30-31', 'Meeting', '-', '1996']",January,31,Meeting,1996
+25,"['March', '26', 'Meeting', '-', '1996']",March,26,Meeting,1996
+26,"['May', '21', 'Meeting', '-', '1996']",May,21,Meeting,1996
+27,"['July', '2-3', 'Meeting', '-', '1996']",July,3,Meeting,1996
+28,"['August', '20', 'Meeting', '-', '1996']",August,20,Meeting,1996
+29,"['September', '24', 'Meeting', '-', '1996']",September,24,Meeting,1996
+30,"['November', '13', 'Meeting', '-', '1996']",November,13,Meeting,1996
+31,"['December', '17', 'Meeting', '-', '1996']",December,17,Meeting,1996
+32,"['February', '4-5', 'Meeting', '-', '1997']",February,5,Meeting,1997
+33,"['March', '25', 'Meeting', '-', '1997']",March,25,Meeting,1997
+34,"['May', '20', 'Meeting', '-', '1997']",May,20,Meeting,1997
+35,"['July', '1-2', 'Meeting', '-', '1997']",July,2,Meeting,1997
+36,"['August', '19', 'Meeting', '-', '1997']",August,19,Meeting,1997
+37,"['September', '30', 'Meeting', '-', '1997']",September,30,Meeting,1997
+38,"['November', '12', 'Meeting', '-', '1997']",November,12,Meeting,1997
+39,"['December', '16', 'Meeting', '-', '1997']",December,16,Meeting,1997
+40,"['February', '3-4', 'Meeting', '-', '1998']",February,4,Meeting,1998
+41,"['March', '31', 'Meeting', '-', '1998']",March,31,Meeting,1998
+42,"['May', '19', 'Meeting', '-', '1998']",May,19,Meeting,1998
+43,"['June', '30-July', '1', 'Meeting', '-', '1998']",July,1,Meeting,1998
+44,"['August', '18', 'Meeting', '-', '1998']",August,18,Meeting,1998
+45,"['September', '21', 'Conference', 'Call', '-', '1998']",September,21,Conference,1998
+46,"['September', '29', 'Meeting', '-', '1998']",September,29,Meeting,1998
+47,"['October', '15', 'Conference', 'Call', '-', '1998']",October,15,Conference,1998
+48,"['November', '17', 'Meeting', '-', '1998']",November,17,Meeting,1998
+49,"['December', '22', 'Meeting', '-', '1998']",December,22,Meeting,1998
+50,"['February', '2-3', 'Meeting', '-', '1999']",February,3,Meeting,1999
+51,"['March', '30', 'Meeting', '-', '1999']",March,30,Meeting,1999
+52,"['May', '18', 'Meeting', '-', '1999']",May,18,Meeting,1999
+53,"['June', '29-30', 'Meeting', '-', '1999']",June,30,Meeting,1999
+54,"['August', '24', 'Meeting', '-', '1999']",August,24,Meeting,1999
+55,"['October', '5', 'Meeting', '-', '1999']",October,5,Meeting,1999
+56,"['November', '16', 'Meeting', '-', '1999']",November,16,Meeting,1999
+57,"['December', '21', 'Meeting', '-', '1999']",December,21,Meeting,1999
+58,"['February', '1-2', 'Meeting', '-', '2000']",February,2,Meeting,2000
+59,"['March', '21', 'Meeting', '-', '2000']",March,21,Meeting,2000
+60,"['May', '16', 'Meeting', '-', '2000']",May,16,Meeting,2000
+61,"['June', '27-28', 'Meeting', '-', '2000']",June,28,Meeting,2000
+62,"['August', '22', 'Meeting', '-', '2000']",August,22,Meeting,2000
+63,"['October', '3', 'Meeting', '-', '2000']",October,3,Meeting,2000
+64,"['November', '15', 'Meeting', '-', '2000']",November,15,Meeting,2000
+65,"['December', '19', 'Meeting', '-', '2000']",December,19,Meeting,2000
+66,"['January', '3', 'Conference', 'Call', '-', '2001']",January,3,Conference,2001
+67,"['January', '30-31', 'Meeting', '-', '2001']",January,31,Meeting,2001
+68,"['March', '20', 'Meeting', '-', '2001']",March,20,Meeting,2001
+69,"['April', '11', 'Conference', 'Call', '-', '2001']",April,11,Conference,2001
+70,"['April', '18', 'Conference', 'Call', '-', '2001']",April,18,Conference,2001
+71,"['May', '15', 'Meeting', '-', '2001']",May,15,Meeting,2001
+72,"['June', '26-27', 'Meeting', '-', '2001']",June,27,Meeting,2001
+73,"['August', '21', 'Meeting', '-', '2001']",August,21,Meeting,2001
+74,"['September', '13', 'Conference', 'Call', '-', '2001']",September,13,Conference,2001
+75,"['September', '17', 'Conference', 'Call', '-', '2001']",September,17,Conference,2001
+76,"['October', '2', 'Meeting', '-', '2001']",October,2,Meeting,2001
+77,"['November', '6', 'Meeting', '-', '2001']",November,6,Meeting,2001
+78,"['December', '11', 'Meeting', '-', '2001']",December,11,Meeting,2001
+79,"['January', '29-30', 'Meeting', '-', '2002']",January,30,Meeting,2002
+80,"['March', '19', 'Meeting', '-', '2002']",March,19,Meeting,2002
+81,"['May', '7', 'Meeting', '-', '2002']",May,7,Meeting,2002
+82,"['June', '25-26', 'Meeting', '-', '2002']",June,26,Meeting,2002
+83,"['August', '13', 'Meeting', '-', '2002']",August,13,Meeting,2002
+84,"['September', '24', 'Meeting', '-', '2002']",September,24,Meeting,2002
+85,"['November', '6', 'Meeting', '-', '2002']",November,6,Meeting,2002
+86,"['December', '10', 'Meeting', '-', '2002']",December,10,Meeting,2002
+87,"['January', '28-29', 'Meeting', '-', '2003']",January,29,Meeting,2003
+88,"['March', '18', 'Meeting', '-', '2003']",March,18,Meeting,2003
+89,"['March', '25', 'Conference', 'Call', '-', '2003']",March,25,Conference,2003
+90,"['April', '1', 'Conference', 'Call', '-', '2003']",April,1,Conference,2003
+91,"['April', '8', 'Conference', 'Call', '-', '2003']",April,8,Conference,2003
+92,"['April', '16', 'Conference', 'Call', '-', '2003']",April,16,Conference,2003
+93,"['May', '6', 'Meeting', '-', '2003']",May,6,Meeting,2003
+94,"['June', '24-25', 'Meeting', '-', '2003']",June,25,Meeting,2003
+95,"['August', '12', 'Meeting', '-', '2003']",August,12,Meeting,2003
+96,"['September', '15', 'Meeting', '-', '2003']",September,15,Meeting,2003
+97,"['September', '16', 'Meeting', '-', '2003']",September,16,Meeting,2003
+98,"['October', '28', 'Meeting', '-', '2003']",October,28,Meeting,2003
+99,"['December', '9', 'Meeting', '-', '2003']",December,9,Meeting,2003
+100,"['January', '27-28', 'Meeting', '-', '2004']",January,28,Meeting,2004
+101,"['March', '16', 'Meeting', '-', '2004']",March,16,Meeting,2004
+102,"['May', '4', 'Meeting', '-', '2004']",May,4,Meeting,2004
+103,"['June', '29-30', 'Meeting', '-', '2004']",June,30,Meeting,2004
+104,"['August', '10', 'Meeting', '-', '2004']",August,10,Meeting,2004
+105,"['September', '21', 'Meeting', '-', '2004']",September,21,Meeting,2004
+106,"['November', '10', 'Meeting', '-', '2004']",November,10,Meeting,2004
+107,"['December', '14', 'Meeting', '-', '2004']",December,14,Meeting,2004
+108,"['February', '1-2', 'Meeting', '-', '2005']",February,2,Meeting,2005
+109,"['March', '22', 'Meeting', '-', '2005']",March,22,Meeting,2005
+110,"['May', '3', 'Meeting', '-', '2005']",May,3,Meeting,2005
+111,"['June', '29-30', 'Meeting', '-', '2005']",June,30,Meeting,2005
+112,"['August', '9', 'Meeting', '-', '2005']",August,9,Meeting,2005
+113,"['September', '20', 'Meeting', '-', '2005']",September,20,Meeting,2005
+114,"['November', '1', 'Meeting', '-', '2005']",November,1,Meeting,2005
+115,"['December', '13', 'Meeting', '-', '2005']",December,13,Meeting,2005
+116,"['January', '31', 'Meeting', '-', '2006']",January,31,Meeting,2006
+117,"['March', '27-28', 'Meeting', '-', '2006']",March,28,Meeting,2006
+118,"['May', '10', 'Meeting', '-', '2006']",May,10,Meeting,2006
+119,"['June', '28-29', 'Meeting', '-', '2006']",June,29,Meeting,2006
+120,"['August', '8', 'Meeting', '-', '2006']",August,8,Meeting,2006
+121,"['September', '20', 'Meeting', '-', '2006']",September,20,Meeting,2006
+122,"['October', '24-25', 'Meeting', '-', '2006']",October,25,Meeting,2006
+123,"['December', '12', 'Meeting', '-', '2006']",December,12,Meeting,2006
+124,"['January', '30-31', 'Meeting', '-', '2007']",January,31,Meeting,2007
+125,"['March', '20-21', 'Meeting', '-', '2007']",March,21,Meeting,2007
+126,"['May', '9', 'Meeting', '-', '2007']",May,9,Meeting,2007
+127,"['June', '27-28', 'Meeting', '-', '2007']",June,28,Meeting,2007
+128,"['August', '7', 'Meeting', '-', '2007']",August,7,Meeting,2007
+129,"['August', '10', 'Conference', 'Call', '-', '2007']",August,10,Conference,2007
+130,"['August', '16', 'Conference', 'Call', '-', '2007']",August,16,Conference,2007
+131,"['September', '18', 'Meeting', '-', '2007']",September,18,Meeting,2007
+132,"['October', '30-31', 'Meeting', '-', '2007']",October,31,Meeting,2007
+133,"['December', '6', 'Conference', 'Call', '-', '2007']",December,6,Conference,2007
+134,"['December', '11', 'Meeting', '-', '2007']",December,11,Meeting,2007
+135,"['January', '9', 'Conference', 'Call', '-', '2008']",January,9,Conference,2008
+136,"['January', '21', 'Conference', 'Call', '-', '2008']",January,21,Conference,2008
+137,"['January', '29-30', 'Meeting', '-', '2008']",January,30,Meeting,2008
+138,"['March', '10', 'Conference', 'Call', '-', '2008']",March,10,Conference,2008
+139,"['March', '18', 'Meeting', '-', '2008']",March,18,Meeting,2008
+140,"['April', '29-30', 'Meeting', '-', '2008']",April,30,Meeting,2008
+141,"['June', '24-25', 'Meeting', '-', '2008']",June,25,Meeting,2008
+142,"['July', '24', 'Conference', 'Call', '-', '2008']",July,24,Conference,2008
+143,"['August', '5', 'Meeting', '-', '2008']",August,5,Meeting,2008
+144,"['September', '16', 'Meeting', '-', '2008']",September,16,Meeting,2008
+145,"['September', '29', 'Conference', 'Call', '-', '2008']",September,29,Conference,2008
+146,"['October', '7', 'Conference', 'Call', '-', '2008']",October,7,Conference,2008
+147,"['October', '28-29', 'Meeting', '-', '2008']",October,29,Meeting,2008
+148,"['December', '15-16', 'Meeting', '-', '2008']",December,16,Meeting,2008
+149,"['January', '16', 'Conference', 'Call', '-', '2009']",January,16,Conference,2009
+150,"['January', '27-28', 'Meeting', '-', '2009']",January,28,Meeting,2009
+151,"['February', '7', 'Conference', 'Call', '-', '2009']",February,7,Conference,2009
+152,"['March', '17-18', 'Meeting', '-', '2009']",March,18,Meeting,2009
+153,"['April', '28-29', 'Meeting', '-', '2009']",April,29,Meeting,2009
+154,"['June', '3', 'Conference', 'Call', '-', '2009']",June,3,Conference,2009
+155,"['June', '23-24', 'Meeting', '-', '2009']",June,24,Meeting,2009
+156,"['August', '11-12', 'Meeting', '-', '2009']",August,12,Meeting,2009
+157,"['September', '22-23', 'Meeting', '-', '2009']",September,23,Meeting,2009
+158,"['November', '3-4', 'Meeting', '-', '2009']",November,4,Meeting,2009
+159,"['December', '15-16', 'Meeting', '-', '2009']",December,16,Meeting,2009
+160,"['January', '26-27', 'Meeting', '-', '2010']",January,27,Meeting,2010
+161,"['March', '16', 'Meeting', '-', '2010']",March,16,Meeting,2010
+162,"['April', '27-28', 'Meeting', '-', '2010']",April,28,Meeting,2010
+163,"['May', '9', 'Conference', 'Call', '-', '2010']",May,9,Conference,2010
+164,"['June', '22-23', 'Meeting', '-', '2010']",June,23,Meeting,2010
+165,"['August', '10', 'Meeting', '-', '2010']",August,10,Meeting,2010
+166,"['September', '21', 'Meeting', '-', '2010']",September,21,Meeting,2010
+167,"['October', '15', 'Conference', 'Call', '-', '2010']",October,15,Conference,2010
+168,"['November', '2-3', 'Meeting', '-', '2010']",November,3,Meeting,2010
+169,"['December', '14', 'Meeting', '-', '2010']",December,14,Meeting,2010
+170,"['January', '25-26', 'Meeting', '-', '2011']",January,26,Meeting,2011
+171,"['March', '15', 'Meeting', '-', '2011']",March,15,Meeting,2011
+172,"['April', '26-27', 'Meeting', '-', '2011']",April,27,Meeting,2011
+173,"['June', '21-22', 'Meeting', '-', '2011']",June,22,Meeting,2011
+174,"['August', '1', 'Conference', 'Call', '-', '2011']",August,1,Conference,2011
+175,"['August', '9', 'Meeting', '-', '2011']",August,9,Meeting,2011
+176,"['September', '20-21', 'Meeting', '-', '2011']",September,21,Meeting,2011
+177,"['November', '1-2', 'Meeting', '-', '2011']",November,2,Meeting,2011
+178,"['November', '28', 'Conference', 'Call', '-', '2011']",November,28,Conference,2011
+179,"['December', '13', 'Meeting', '-', '2011']",December,13,Meeting,2011
+180,"['January', '24-25', 'Meeting', '-', '2012']",January,25,Meeting,2012
+181,"['March', '13', 'Meeting', '-', '2012']",March,13,Meeting,2012
+182,"['April', '24-25', 'Meeting', '-', '2012']",April,25,Meeting,2012
+183,"['June', '19-20', 'Meeting', '-', '2012']",June,20,Meeting,2012
+184,"['July', '31-August', '1', 'Meeting', '-', '2012']",August,1,Meeting,2012
+185,"['September', '12-13', 'Meeting', '-', '2012']",September,13,Meeting,2012
+186,"['October', '23-24', 'Meeting', '-', '2012']",October,24,Meeting,2012
+187,"['December', '11-12', 'Meeting', '-', '2012']",December,12,Meeting,2012
+188,"['January', '29-30', 'Meeting', '-', '2013']",January,30,Meeting,2013
+189,"['March', '19-20', 'Meeting', '-', '2013']",March,20,Meeting,2013
+190,"['April/May', '30-1', 'Meeting', '-', '2013']",May,1,Meeting,2013
+191,"['June', '18-19', 'Meeting', '-', '2013']",June,19,Meeting,2013
+192,"['July', '30-31', 'Meeting', '-', '2013']",July,31,Meeting,2013
+193,"['September', '17-18', 'Meeting', '-', '2013']",September,18,Meeting,2013
+194,"['October', '16', '(unscheduled)', '-', '2013']",October,16,(unscheduled),2013
+195,"['October', '29-30', 'Meeting', '-', '2013']",October,30,Meeting,2013
+196,"['December', '17-18', 'Meeting', '-', '2013']",December,18,Meeting,2013
+197,"['January', '28-29', 'Meeting', '-', '2014']",January,29,Meeting,2014
+198,"['March', '4', '(unscheduled)', '-', '2014']",March,4,(unscheduled),2014
+199,"['March', '18-19', 'Meeting', '-', '2014']",March,19,Meeting,2014
+200,"['April', '29-30', 'Meeting', '-', '2014']",April,30,Meeting,2014
+201,"['June', '17-18', 'Meeting', '-', '2014']",June,18,Meeting,2014
+202,"['July', '29-30', 'Meeting', '-', '2014']",July,30,Meeting,2014
+203,"['September', '16-17', 'Meeting', '-', '2014']",September,17,Meeting,2014
+204,"['October', '28-29', 'Meeting', '-', '2014']",October,29,Meeting,2014
+205,"['December', '16-17', 'Meeting', '-', '2014']",December,17,Meeting,2014
+206,"['January', '27-28', 'Meeting', '-', '2015']",January,28,Meeting,2015
+207,"['March', '17-18', 'Meeting', '-', '2015']",March,18,Meeting,2015
+208,"['April', '28-29', 'Meeting', '-', '2015']",April,29,Meeting,2015
+209,"['June', '16-17', 'Meeting', '-', '2015']",June,17,Meeting,2015
+210,"['July', '28-29', 'Meeting', '-', '2015']",July,29,Meeting,2015
+211,"['September', '16-17', 'Meeting', '-', '2015']",September,17,Meeting,2015
+212,"['October', '27-28', 'Meeting', '-', '2015']",October,28,Meeting,2015
+213,"['December', '15-16', 'Meeting', '-', '2015']",December,16,Meeting,2015
+214,"['January', '26-27', 'Meeting', '-', '2016']",January,27,Meeting,2016
+215,"['March', '15-16', 'Meeting', '-', '2016']",March,16,Meeting,2016
+216,"['April', '26-27', 'Meeting', '-', '2016']",April,27,Meeting,2016
+217,"['June', '14-15', 'Meeting', '-', '2016']",June,15,Meeting,2016
+218,"['July', '26-27', 'Meeting', '-', '2016']",July,27,Meeting,2016
+219,"['September', '20-21', 'Meeting', '-', '2016']",September,21,Meeting,2016
+220,"['November', '1-2', 'Meeting', '-', '2016']",November,2,Meeting,2016
+221,"['December', '13-14', 'Meeting', '-', '2016']",December,14,Meeting,2016
+222,"['Jan/Feb', '31-1', 'Meeting', '-', '2017']",February,1,Meeting,2017
+223,"['March', '14-15', 'Meeting', '-', '2017']",March,15,Meeting,2017
+224,"['May', '2-3', 'Meeting', '-', '2017']",May,3,Meeting,2017
+225,"['June', '13-14', 'Meeting', '-', '2017']",June,14,Meeting,2017
+226,"['July', '25-26', 'Meeting', '-', '2017']",July,26,Meeting,2017
+227,"['September', '19-20', 'Meeting', '-', '2017']",September,20,Meeting,2017
+228,"['Oct/Nov', '31-1', 'Meeting', '-', '2017']",November,1,Meeting,2017
+229,"['December', '12-13', 'Meeting', '-', '2017']",December,13,Meeting,2017

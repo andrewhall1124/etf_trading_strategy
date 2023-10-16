@@ -1,0 +1,64 @@
+,data,month,day,event,year
+0,"['Jan/Feb', '31-1', 'Meeting', '2023']",February,1,Meeting,2023
+1,"['March', '21-22*', 'Meeting', '2023']",March,22,Meeting,2023
+2,"['May', '2-3', 'Meeting', '2023']",May,3,Meeting,2023
+3,"['June', '13-14*', 'Meeting', '2023']",June,14,Meeting,2023
+4,"['July', '25-26', 'Meeting', '2023']",July,26,Meeting,2023
+5,"['September', '19-20*', 'Meeting', '2023']",September,20,Meeting,2023
+6,"['Oct/Nov', '31-1', 'Meeting', '2023']",Nov,1,Meeting,2023
+7,"['December', '12-13*', 'Meeting', '2023']",December,13,Meeting,2023
+8,"['January', '25-26', 'Meeting', '2022']",January,26,Meeting,2022
+9,"['March', '15-16*', 'Meeting', '2022']",March,16,Meeting,2022
+10,"['May', '3-4', 'Meeting', '2022']",May,4,Meeting,2022
+11,"['June', '14-15*', 'Meeting', '2022']",June,15,Meeting,2022
+12,"['July', '26-27', 'Meeting', '2022']",July,27,Meeting,2022
+13,"['September', '20-21*', 'Meeting', '2022']",September,21,Meeting,2022
+14,"['November', '1-2', 'Meeting', '2022']",November,2,Meeting,2022
+15,"['December', '13-14*', 'Meeting', '2022']",December,14,Meeting,2022
+16,"['January', '26-27', 'Meeting', '2021']",January,27,Meeting,2021
+17,"['March', '16-17*', 'Meeting', '2021']",March,17,Meeting,2021
+18,"['April', '27-28', 'Meeting', '2021']",April,28,Meeting,2021
+19,"['June', '15-16*', 'Meeting', '2021']",June,16,Meeting,2021
+20,"['July', '27-28', 'Meeting', '2021']",July,28,Meeting,2021
+21,"['September', '21-22*', 'Meeting', '2021']",September,22,Meeting,2021
+22,"['November', '2-3', 'Meeting', '2021']",November,3,Meeting,2021
+23,"['December', '14-15*', 'Meeting', '2021']",December,15,Meeting,2021
+24,"['January', '28-29', 'Meeting', '2020']",January,29,Meeting,2020
+25,"['March', '3 (unscheduled)', 'Meeting', '2020']",March,3,Meeting,2020
+26,"['March', '15 (unscheduled)', 'Meeting', '2020']",March,15,Meeting,2020
+27,"['March', '17-18* (cancelled)', 'Meeting', '2020']",March,18,Meeting,2020
+28,"['March', '19 (notation vote)', 'Meeting', '2020']",March,19,Meeting,2020
+29,"['March', '23 (notation vote)', 'Meeting', '2020']",March,23,Meeting,2020
+30,"['March', '31 (notation vote)', 'Meeting', '2020']",March,31,Meeting,2020
+31,"['April', '28-29', 'Meeting', '2020']",April,29,Meeting,2020
+32,"['June', '9-10*', 'Meeting', '2020']",June,10,Meeting,2020
+33,"['July', '28-29', 'Meeting', '2020']",July,29,Meeting,2020
+34,"['August', '27 (notation vote)', 'Meeting', '2020']",August,27,Meeting,2020
+35,"['September', '15-16*', 'Meeting', '2020']",September,16,Meeting,2020
+36,"['November', '4-5', 'Meeting', '2020']",November,5,Meeting,2020
+37,"['December', '15-16*', 'Meeting', '2020']",December,16,Meeting,2020
+38,"['January', '29-30', 'Meeting', '2019']",January,30,Meeting,2019
+39,"['March', '19-20*', 'Meeting', '2019']",March,20,Meeting,2019
+40,"['April/May', '30-1', 'Meeting', '2019']",May,1,Meeting,2019
+41,"['June', '18-19*', 'Meeting', '2019']",June,19,Meeting,2019
+42,"['July', '30-31', 'Meeting', '2019']",July,31,Meeting,2019
+43,"['September', '17-18*', 'Meeting', '2019']",September,18,Meeting,2019
+44,"['October', '4 (unscheduled)', 'Meeting', '2019']",October,4,Meeting,2019
+45,"['October', '29-30', 'Meeting', '2019']",October,30,Meeting,2019
+46,"['December', '10-11*', 'Meeting', '2019']",December,11,Meeting,2019
+47,"['January', '30-31', 'Meeting', '2018']",January,31,Meeting,2018
+48,"['March', '20-21*', 'Meeting', '2018']",March,21,Meeting,2018
+49,"['May', '1-2', 'Meeting', '2018']",May,2,Meeting,2018
+50,"['June', '12-13*', 'Meeting', '2018']",June,13,Meeting,2018
+51,"['Jul/Aug', '31-1', 'Meeting', '2018']",August,1,Meeting,2018
+52,"['September', '25-26*', 'Meeting', '2018']",September,26,Meeting,2018
+53,"['November', '7-8', 'Meeting', '2018']",November,8,Meeting,2018
+54,"['December', '18-19*', 'Meeting', '2018']",December,19,Meeting,2018
+55,"['January', '30-31', 'Meeting', '2024']",January,31,Meeting,2024
+56,"['March', '19-20*', 'Meeting', '2024']",March,20,Meeting,2024
+57,"['Apr/May', '30-1', 'Meeting', '2024']",May,1,Meeting,2024
+58,"['June', '11-12*', 'Meeting', '2024']",June,12,Meeting,2024
+59,"['July', '30-31', 'Meeting', '2024']",July,31,Meeting,2024
+60,"['September', '17-18*', 'Meeting', '2024']",September,18,Meeting,2024
+61,"['November', '6-7', 'Meeting', '2024']",November,7,Meeting,2024
+62,"['December', '17-18*', 'Meeting', '2024']",December,18,Meeting,2024
